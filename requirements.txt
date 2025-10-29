@@ -1,7 +1,7 @@
 #plotly
 #pandas
 #folium
-#yfiance
+yfiance
 import streamlit as st
 
 import yfinance as yf
