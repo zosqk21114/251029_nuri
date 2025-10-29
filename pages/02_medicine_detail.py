@@ -5,6 +5,7 @@ import streamlit as st
 # ----------------------------
 medicine_db = {
     "타이레놀": {
+        st.image("https://images.ctfassets.net/pfyz1dzp3j46/3IZwD45YmqiJUbLR8D5hVc/e5a084f25c7f432e510f4c6646d84c0e/Thumbnail_30T.png?fm=webp&w=3840")
         "효능": "두통, 발열, 근육통 완화",
         "성분": "아세트아미노펜 500mg",
         "복용법": "성인 1회 1~2정, 1일 최대 4회",
